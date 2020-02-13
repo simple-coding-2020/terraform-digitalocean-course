@@ -21,4 +21,5 @@ To make sure everything is OK, run:
 $ systemctl status docker
 ```
 
-And you should see the service as Active!
+And you should see the service as `Active (running)`!
+
