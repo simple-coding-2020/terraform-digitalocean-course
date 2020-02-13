@@ -1,0 +1,23 @@
+{
+  "name": "quote-of-the-day",
+  "version": "1.0.0",
+  "description": "Quote of the day, pulled from a MySQL database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simple-coding-2020/terraform-digitalocean-course.git"
+  },
+  "author": "Simple Coding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simple-coding-2020/terraform-digitalocean-course/issues"
+  },
+  "homepage": "https://github.com/simple-coding-2020/terraform-digitalocean-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
